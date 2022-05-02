@@ -9,8 +9,14 @@ export const attributes = {
     image: '/img/hero.jpeg',
     secondButton: { icon: 'whatsapp', link: '/#contact', text: 'Contact' },
     social: {
-      facebook: { link: 'https://facebook.com', show: true },
-      instagram: { link: 'https://instagram.com', show: true },
+      facebook: {
+        link: 'https://https://www.facebook.com/elena.annibali.7/',
+        show: true,
+      },
+      instagram: {
+        link: 'https://https://www.instagram.com/elena_annibali/',
+        show: true,
+      },
       linkedin: { link: 'https://linkedin.com', show: true },
     },
     typed: [
@@ -22,7 +28,7 @@ export const attributes = {
   about: {
     heading: 'Who am I?',
     image: '/img/about.jpeg',
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi, sit amet consequat leo. Integer non dolor non elit sodales consequat. Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.\n',
+    text: 'I have a bachelor degree on Oenology and Viticulture, with a main focus on Entomology and Biological control. I live in Vienna, Austria, but I am actually italian. I love learning languages and my new challenge is learning how to code.\n',
   },
   features: [
     {
