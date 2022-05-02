@@ -20,9 +20,9 @@ export const attributes = {
       linkedin: { link: 'https://linkedin.com', show: true },
     },
     typed: [
-      { text: 'fast websites.' },
-      { text: 'beautiful logos.' },
-      { text: 'great experiences.' },
+      { text: 'jokes' },
+      { text: 'beautiful websites' },
+      { text: 'great content' },
     ],
   },
   about: {
