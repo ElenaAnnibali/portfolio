@@ -5,24 +5,24 @@ export const attributes = {
       link: '/#portofolio',
       text: 'My work',
     },
-    heading: "I'm Elena, and I create",
+    heading: "Hi! I'm Elena, and I create",
     image: '/img/hero.jpeg',
     secondButton: { icon: 'whatsapp', link: '/#contact', text: 'Contact' },
     social: {
       facebook: {
-        link: 'https://https://www.facebook.com/elena.annibali.7/',
+        link: 'https://www.facebook.com/elena.annibali.7/',
         show: true,
       },
       instagram: {
-        link: 'https://https://www.instagram.com/elena_annibali/',
+        link: 'https://www.instagram.com/elena_annibali/',
         show: true,
       },
       linkedin: { link: 'https://linkedin.com', show: true },
     },
     typed: [
-      { text: 'funny jokes.' },
+      { text: 'meaningful content.' },
       { text: 'beautiful websites.' },
-      { text: 'great content.' },
+      { text: 'funny jokes.' },
     ],
   },
   about: {
