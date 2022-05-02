@@ -20,13 +20,13 @@ export const attributes = {
       linkedin: { link: 'https://linkedin.com', show: true },
     },
     typed: [
-      { text: 'jokes' },
-      { text: 'beautiful websites' },
-      { text: 'great content' },
+      { text: 'funny jokes.' },
+      { text: 'beautiful websites.' },
+      { text: 'great content.' },
     ],
   },
   about: {
-    heading: 'Who am I?',
+    heading: 'A few words about me.',
     image: '/img/about.jpeg',
     text: 'I have a bachelor degree on Oenology and Viticulture, with a main focus on Entomology and Biological control. I live in Vienna, Austria, but I am actually italian. I love learning languages and my new challenge is learning how to code.\n',
   },
