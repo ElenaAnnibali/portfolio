@@ -5,7 +5,7 @@ export const attributes = {
       link: '/#portofolio',
       text: 'My work',
     },
-    heading: "Hi!\n I'm Elena, and I create",
+    heading: "Hi! I'm Elena, and I create",
     image: '/img/newHero.jpg',
     secondButton: { icon: 'whatsapp', link: '/#contact', text: 'Contact' },
     social: {
@@ -27,7 +27,7 @@ export const attributes = {
   },
   about: {
     heading: 'A few words about me.',
-    image: '/img/about.jpeg',
+    image: '/img/newAbout.jpg',
     text: 'I have a bachelor degree on Oenology and Viticulture, with a main focus on Entomology and Biological control. I live in Vienna, Austria, but I am actually italian. I love learning languages and my new challenge is learning how to code.\n',
   },
   features: [
