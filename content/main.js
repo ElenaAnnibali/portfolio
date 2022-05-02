@@ -5,8 +5,8 @@ export const attributes = {
       link: '/#portofolio',
       text: 'My work',
     },
-    heading: "Hi! I'm Elena, and I create",
-    image: '/img/newAbout.jpg',
+    heading: "Hi!\n I'm Elena, and I create",
+    image: '/img/newHero.jpg',
     secondButton: { icon: 'whatsapp', link: '/#contact', text: 'Contact' },
     social: {
       facebook: {
