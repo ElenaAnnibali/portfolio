@@ -24,8 +24,8 @@ const Hero = ({ data }) => {
         <h2 className="text-5xl font-bold" style={{ minHeight: '70px' }}>
           <Typed
             strings={typedStrings}
-            typeSpeed={70}
-            backSpeed={50}
+            typeSpeed={50}
+            backSpeed={40}
             showCursor={false}
             loop
           />
